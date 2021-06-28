@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Tiago Gomes"
   avatar           : "mrgomes.png"
-  bio              : "gomes.biography for the left-hand sidebar"
+  bio              : "Gomes is currently an Invited Research Scientist and invited Assistant Professor at the University of Minho, Portugal. He holds a Masters Degree in Telecommunications engineering and a PhD in Electronics and Computers engineering from the University of Minho. For the last 15 years has been involved in several R&D projects in partnership with companies and research labs.
+His fields of interest include embedded systems hardware/software co-design; real-time systems; connected resource-constrained wireless devices, wireless protocols for low-rate wireless personal area networks and, network protocols for the Internet of Things low-end devices."
   location         : "Mars"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
